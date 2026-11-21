@@ -1,9 +1,22 @@
 # JUSTIFICATION — the design of the harness, and why
 <!-- STUDENT: replace -->
 
-Replace this whole template with your own text. Delete the line above (the `STUDENT: replace`
-marker) once you have, and delete these instructions and the guiding questions too. Keep the headings
-that follow. Which dimension each section is graded against is in the README.
+
+## 1. What the system may do
+
+The system may answer questions, provide information, and use available tools to complete safe tasks. It can process user requests while following established safety rules.
+
+## 2. What the system must refuse
+
+The system must refuse unsafe, harmful, illegal, or unauthorized requests. It must not provide information that could cause harm or violate user privacy.
+
+## 3. What record it keeps
+
+The system keeps a decision log in JSONL format. It records important decisions, including actions, refusals, and outcomes. This makes the system easier to monitor and evaluate.
+
+## 4. Trade-offs I accepted
+
+I accepted that additional safety controls can make the system slower and sometimes cause it to refuse requests that may be harmless. However, safety, privacy, and reliability are more important than answering every request.
 
 Two rules for the whole document:
 
