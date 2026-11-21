@@ -1,5 +1,4 @@
 # JUSTIFICATION — the design of the harness, and why
-<!-- STUDENT: replace -->
 
 
 ## 1. What the system may do
