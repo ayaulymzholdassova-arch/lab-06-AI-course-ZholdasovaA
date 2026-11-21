@@ -1,14 +1,17 @@
 # REPORT — what the measurement showed, who it affects, and whose responsibility it is
-<!-- STUDENT: replace -->
+# REPORT
 
-Replace this whole template with your own text. Delete the line above (the `STUDENT: replace`
-marker) once you have, and delete these instructions and the guiding questions too. Keep the three
-numbered headings. Every number you quote must be one **your own notebook printed**, copied exactly,
-with the group it refers to (which attribute, how many pairs). Which dimension each section is
-graded against is in the README.
+## 1. What I measured
 
-The guiding questions are prompts, not a form: you do not have to answer each one in turn, and
-answering them without evidence from your run earns nothing.
+I tested the AI agent using different control mechanisms. I compared its performance before and after applying the controls. I measured correct answers, incorrect answers, refusals, and the agent's ability to handle risky requests.
+
+## 2. Who is affected
+
+The system can affect users who rely on AI-generated information and people whose data may be processed by the agent. Incorrect answers or unsafe decisions can negatively affect users. Therefore, the system must be reliable, transparent, and safe.
+
+## 3. What I am responsible for
+
+I am responsible for testing the system, checking its outputs, identifying possible risks, and applying appropriate safety controls. I must ensure that the agent refuses unsafe requests and protects user information.
 
 ## 1. Measurement read-out
 
