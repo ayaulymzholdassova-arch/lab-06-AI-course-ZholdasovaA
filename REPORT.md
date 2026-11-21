@@ -1,5 +1,4 @@
 # REPORT — what the measurement showed, who it affects, and whose responsibility it is
-<!-- STUDENT: replace -->
 
 ## 1. What I measured
 
